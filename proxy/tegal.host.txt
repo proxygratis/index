@@ -20,7 +20,7 @@
 47.245.95.160,1443,SG,Alibaba
 194.127.193.124,24467,SG,Leaseweb Asia
 213.35.107.73,443,SG,Oracle Cloud
-172.232.239.151,587,ID,Akamai Connected Cloud
+43.218.77.16,1443,ID,Amazon.com
 146.190.111.165,443,SG,Digital Ocean
 51.79.254.182,443,SG,OVH Hosting
 194.127.193.240,50791,SG,Leaseweb Asia
@@ -4723,7 +4723,7 @@
 65.109.7.80,2053,FI,Hetzner Online
 65.109.220.11,2096,FI,Hetzner Online
 95.217.184.234,2053,FI,Hetzner Online
-35.219.15.90,443,ID,Google Cloud
+36.95.152.58,12137,ID,CV. Rumahweb Indonesia
 65.109.184.140,2053,FI,Hetzner Online
 135.181.197.230,2053,FI,Hetzner Online
 37.27.206.159,2096,FI,Hetzner Online GmbH
@@ -5552,7 +5552,7 @@
 195.238.126.94,443,LT,Melbikomas UAB
 212.111.80.5,443,NL,Servers Tech Fzco
 194.146.24.240,443,GB,Kamatera Inc
-8.215.196.18,587,ID,Alibaba
+203.194.112.119,2053,ID,CV. Rumahweb Indonesia
 195.26.230.188,443,FI,Hostkey
 195.26.230.184,443,FI,Hostkey
 194.164.235.67,443,FI,Hostkey
@@ -11876,7 +11876,7 @@
 85.237.211.113,2096,AE,Zenlayer
 91.197.1.127,8443,LV,Sia Veesp
 15.157.7.168,443,CA,Amazoncom
-172.235.251.7,587,ID,Akamai Connected Cloud
+43.218.77.16,443,ID,Amazon.com
 94.131.104.146,2053,LV,Stark Industries Solutions LTD
 91.197.0.206,8443,LV,Sia Veesp
 80.233.248.56,2053,LV,Lattelecom
@@ -12387,8 +12387,7 @@
 104.234.36.27,33388,CA,QuadraNet
 168.138.141.235,2053,BR,Oracle Cloud
 132.226.163.224,8443,BR,Oracle Cloud
-203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
-203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
+36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
 45.12.135.32,2053,CY,Stark Industries Solutions
 142.132.140.130,452,DE,Hetzner Online
 154.17.21.134,18446,US,DMIT
@@ -12409,7 +12408,6 @@
 45.77.236.204,443,AU,Vultr
 142.132.140.130,451,DE,Hetzner Online
 142.132.140.130,446,DE,Hetzner Online
-172.232.237.91,587,ID,Akamai Connected Cloud
 142.132.140.130,445,DE,Hetzner Online
 142.132.140.130,449,DE,Hetzner Online
 142.132.140.130,453,DE,Hetzner Online
