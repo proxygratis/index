@@ -8,7 +8,7 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 
 # INSTALL
 
-apt install -y wget curl screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://install.inj3ct0r.zone/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
+apt install -y wget curl screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://vpn.yudhy.net/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
 
 ## Silahkan Hubungi/ Supot Me
 # My Telegram : <a href="https://t.me/yudhydm" 
